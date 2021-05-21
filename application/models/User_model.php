@@ -8,4 +8,9 @@ class User_model extends CI_Model
 	public function getTable(){
 		return $this->db->get('kecerdasan')->result_array();
 	}
+
+	public function getIndikasi()
+	{
+		return $this->db->get('kriteria_d')->result_array();
+	}
 }

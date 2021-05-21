@@ -21,7 +21,7 @@
                     </div>
                   </div>
                   <div class="article-details">
-                    <p>Pada dasarnya setiap manusia adalah makhluk yang pintar atau makhluk yang cerdas. Namun jika yang anda maksud cerdas dalam artian selalu mengangkat tangan saat guru memberi pertanyaan, maka kamu salah besar. Kecerdasan tidak bisa diukur seperti demikian. </p>
+                    <p>Pada dasarnya setiap manusia adalah makhluk yang pintar atau makhluk yang cerdas. Namun jika yang anda maksud cerdas dalam artian selalu mengangkat tangan saat guru memberi pertanyaan, mendapat nilai sempurna disetiap ujian, atau selalu mendapat pujian dari orang disekitarnya, maka kamu salah besar. Kecerdasan tidak bisa diukur seperti demikian. Kecerdasan manusia sangatlah luas, janganlah dibatasi hanya dengan ukuran yang kecil </p>
 
                     <p>Dalam hakikatnya setiap manusia adalah makhluk yang cerdas, Namun jika kamu menilai seekor ikan dari kemampuannya memanjat pohon. Maka ia akan meyakini seumur hidupnya bahwa ia adalah orang yang bodoh. Begitulah kutipan dari Albert Einstein. </p>
 
@@ -29,7 +29,7 @@
 
                     
                     <div class="article-cta">
-                      <a href="#">Sumber : http://www.zoneknowledge.com/2017/11/8-macam-kecerdasan-manusia-pada.html <i class="fas fa-chevron-right"></i></a>
+                      <a href="https://www.klikdokter.com/info-sehat/read/3624882/9-jenis-kecerdasan-anak-dan-cara-mengembangkannya" target="_blank">Sumber : https://www.klikdokter.com/info-sehat/read/3624882/9-jenis-kecerdasan-anak-dan-cara-mengembangkannya <i class="fas fa-chevron-right"></i></a>
                     </div>
                   </div>
                 </article>
