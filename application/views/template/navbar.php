@@ -52,11 +52,11 @@
           }
           ?>"><i class="fas fa-fw fa-info-circle"></i> <span>Tentang</span></a></li>
 
-          <div class="mt-4 mb-4 p-3 hide-sidebar-mini">
+          <!-- <div class="mt-4 mb-4 p-3 hide-sidebar-mini">
               <a href="<?= base_url('auth') ?>" class="btn btn-primary btn-lg btn-block btn-icon-split">
                 <i class="fas fa-rocket"></i> Login
               </a>
-            </div>
+            </div> -->
               
           </ul>
         </aside>
