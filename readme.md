@@ -1,6 +1,4 @@
 ## ⚡ SISTEM PAKAR MINAT DAN BAKAT ANAK
-======================================
-
 1. Alwi Aldiansyach
 2. Febrilia Kamilia Ahmad
 3. Muhammad Fathan Aulia
