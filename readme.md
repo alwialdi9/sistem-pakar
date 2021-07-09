@@ -1,9 +1,11 @@
-<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/intro.gif" alt="👋 Hi there! This is Our Final Project" title="👋 Hi there! This is Our Final Project"/>
-
-SISTEM PAKAR MINAT DAN BAKAT ANAK
+## ⚡ SISTEM PAKAR MINAT DAN BAKAT ANAK
 ======================================
 
 1. Alwi Aldiansyach
 2. Febrilia Kamilia Ahmad
 3. Muhammad Fathan Aulia
 4. Muhammad Wisanggeni
+
+## ⚡ HOW TO RUN CLIPS PROGRAM
+1. Clone project to your computer
+2. Open program
